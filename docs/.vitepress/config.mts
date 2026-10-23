@@ -11,7 +11,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'JasonChan的知识库',
   description: '数学 · 语文 · 经济学 · 会计学 学习笔记与资料整理',
-  base: BASE_PATH,
+  base: '/JasonChan-s-Knowledge/',
   cleanUrls: true,
   lastUpdated: true,
   // README.md 是项目说明，不参与站点构建（否则会被渲染成 /README.html 页面）
