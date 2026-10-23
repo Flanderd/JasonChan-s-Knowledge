@@ -314,7 +314,7 @@ export default defineConfig({
         },
       
         {text: '《税法二》',
-          collapsed: true,
+          collapsed: false,
           items: [
             {
         text: '一、企业所得税',
